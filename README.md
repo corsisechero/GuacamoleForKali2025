@@ -122,5 +122,3 @@ sudo systemctl restart xrdp-sesman
 Apache Guacamole è ora configurato e funzionante su Ubuntu 22.04 con RDP abilitato tramite Proxmox.  
 Per ulteriori informazioni, consulta la [documentazione ufficiale di Guacamole](https://guacamole.apache.org/).
 ```
-
-Fammi sapere se hai bisogno di ulteriori modifiche!
